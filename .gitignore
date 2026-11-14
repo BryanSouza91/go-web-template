@@ -1,0 +1,17 @@
+# Binaries & build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+/app
+/dist/
+
+# Environment & secrets
+.env
+*.local
+conf/
+
+# OS & editor files
+.DS_Store
+.vscode/
+.idea/
